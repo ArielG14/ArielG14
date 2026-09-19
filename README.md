@@ -3,11 +3,7 @@
 <h4 align="center">A freelance developer an also an engineering students at the Cono Sur de las Américas University, see my <a href="https://github.com/ArielG14/ArielG14/blob/f6ace9fc1b08fa1d78531100432f3b709628614a/CV%20Ariel%20Gonz%C3%A1lez.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
 
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
