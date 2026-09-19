@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm Ariel González</h1>
-<h4 align="center">A freelance developer an also an engineering students at the Cono Sur de las Américas University, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">A freelance developer an also an engineering students at the Cono Sur de las Américas University, see my <a href="https://github.com/ArielG14/ArielG14/blob/f6ace9fc1b08fa1d78531100432f3b709628614a/CV%20Ariel%20Gonz%C3%A1lez.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
 <div align="center">
