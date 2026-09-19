@@ -16,11 +16,9 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- A passionate Front-end developer
+- Currently learning Web Development 
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://github.com/ArielG14/ArielG14/blob/ee5242d0b2cd5fe8ed2f06efeda5210fead836e8/CV%20Ariel%20Gonz%C3%A1lez.pdf)
 
 <br><br>
 
